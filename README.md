@@ -1,2 +1,2 @@
-# HimaniKumawat.github.io/ex1/
+# HimaniKumawat.github.io
  Multiple Tracker
